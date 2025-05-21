@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Symba-Drumz
-- 👀 I’m interested in Music🎵/Drums🥁/Art🎨 and Tech💻
+- 👀 I’m interested in Live Music🎤🎹🎷🎸🪘🎛️🎚️🎺🎵/Drums🥁🪘/Art🎨 and Tech💻
 - 🌱 I’m currently learning Software Development with a focus on back end at the momemnt.
 - 💞️ I’m looking to collaborate on absolutely anything software dev.
 - 📫 How to reach me: zalfa3890@gmail.com
