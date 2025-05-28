@@ -41,9 +41,6 @@ Absolutely **anything software dev related** — frontend, backend, side quests,
 
 ---
 
-### 📊 GitHub Stats (Optional)
-![Symba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Symba-Drumz&show_icons=true&theme=radical)
 
----
 
 > 💭 *Still learning. Still drumming. Still vibing.* 🥁💻
