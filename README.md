@@ -1,11 +1,49 @@
-- 👋 Hi, I’m @Symba-Drumz
-- 👀 I’m interested in Live Music🎤🎹🎷🎸🪘🎛️🎚️🎺🎵/Drums🥁🪘/Art🎨 and Tech💻
-- 🌱 I’m currently learning Software Development with a focus on back end at the momemnt.
-- 💞️ I’m looking to collaborate on absolutely anything software dev.
-- 📫 How to reach me: zalfa3890@gmail.com
-- ⚡ Fun fact: Dogs can't see colors.
+# 👋 Hi, I’m @Symba-Drumz
 
-<!---
-Symba-Drumz/Symba-Drumz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🎶 Interests:
+- Live Music 🎤🎹🎷🎸🥁🎺🎻  
+- Drums 🐗🥁  
+- Art 🎨  
+- Tech 💻  
+
+---
+
+### 🌱 Currently Learning:
+I’m currently studying **Software Development** with a focus on **Back End** technologies. Python, SQL, and trying not to rage quit over semicolons 😅
+
+---
+
+### 🤝 Open to Collaborate On:
+Absolutely **anything software dev related** — frontend, backend, side quests, meme apps — let’s build something!
+
+---
+
+### 📫 How to Reach Me:
+📧 [zalfa3890@gmail.com](mailto:zalfa3890@gmail.com)
+
+---
+
+### ⚡ Fun Fact:
+> Dogs *can* see colors — just not the same way humans do. 🐶🌈  
+> Also, HTML is not a programming language. 💀
+
+---
+
+### 🛠 Tech I'm Playing With:
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 GitHub Stats (Optional)
+![Symba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Symba-Drumz&show_icons=true&theme=radical)
+
+---
+
+> 💭 *Still learning. Still drumming. Still vibing.* 🥁💻
