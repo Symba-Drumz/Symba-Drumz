@@ -24,8 +24,8 @@ Absolutely **anything software dev related** — frontend, backend, side quests,
 ---
 
 ### ⚡ Fun Fact:
-> Dogs *can* see colors — just not the same way humans do. 🐶🌈  
-> Also, HTML is not a programming language. 💀
+> Dogs *can* see colors — just not the same way humans do.  
+> Also, HTML is not a programming language. 
 
 ---
 
@@ -43,4 +43,4 @@ Absolutely **anything software dev related** — frontend, backend, side quests,
 
 
 
-> 💭 *Still learning. Still drumming. Still vibing.* 🥁💻
+> 💭 *Still learning. Still drumming.* 🥁💻
