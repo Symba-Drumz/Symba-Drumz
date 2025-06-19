@@ -9,7 +9,7 @@
 ---
 
 ### 🌱 Currently Learning:
-I’m currently studying **Software Development** with a focus on **Back End** technologies. Python, SQL, and trying not to rage quit over semicolons 😅
+I’m currently studying **Software Development** with a focus on **Back End** technologies. Python, SQL, and Flask.
 
 ---
 
@@ -43,4 +43,4 @@ Absolutely **anything software dev related** — frontend, backend, side quests,
 
 
 
-> 💭 *Still learning. Still drumming.* 🥁💻
+> 💭 *Still learning code, forever drumming.* 🥁💻
